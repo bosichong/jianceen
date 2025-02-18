@@ -5,13 +5,16 @@ Jianceen是一个基于Next.js的Web应用程序，旨在提供一个简单易�
 
 ## 效果展示
 
+
+![Jianceen](./public/doc/jc%20(4).png)
+
 ![Jianceen](./public/doc/jc%20(1).png)
 
 ![Jianceen](./public/doc/jc%20(2).png)
 
 ![Jianceen](./public/doc/jc%20(3).png)
 
-![Jianceen](./public/doc/jc%20(4).png)
+
 
 
 ## 功能特点
