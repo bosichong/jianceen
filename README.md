@@ -25,7 +25,7 @@ Jianceen是一个基于Next.js的Web应用程序，旨在提供一个简单易�
 
 1. 克隆项目到本地：
 ```bash
-git clone [你的仓库URL]
+git clone https://github.com/bosichong/jianceen
 cd jianceen
 ```
 
