@@ -1,0 +1,32 @@
+{
+    "title": "英语单词",
+    "description": "英语单词，测试案例。",
+    "time": 2000,
+    "questions": [
+      {
+        "type": "简答题",
+        "question": "猫咪",
+        "answer": "cat"
+      },
+      {
+          "type": "简答题",
+          "question": "狗狗", 
+          "answer": "dog"
+      },
+      {
+          "type": "简答题",
+          "question": "苹果", 
+          "answer": "apple"
+      },
+      {
+          "type": "简答题",
+          "question": "红色", 
+          "answer": "red"
+      },
+      {
+          "type": "简答题",
+          "question": "蓝色", 
+          "answer": "blue"
+      }
+    ]
+  }
